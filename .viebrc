@@ -1,0 +1,7 @@
+colorscheme verticaltabs
+
+" 确保标签栏始终显示
+set guitabbar=always
+
+" 如果在全屏时也需要显示标签栏
+set guifullscreentabbar=always
