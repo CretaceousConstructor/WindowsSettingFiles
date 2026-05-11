@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Tue May 12 00:59:50 2026"
+  rime_version: 1.13.1
+patch:
+  schema_list:
+    - {schema: wanxiang}
+  key_binder:
+    bindings:
+      - { when: always, accept: Escape, toggle: ascii_mode }
