@@ -1,1 +1,2 @@
-- windhauk: alt + tab monitor和 alt + tab window delayer插件
+alt + tab monitor
+alt + tab window delayer
