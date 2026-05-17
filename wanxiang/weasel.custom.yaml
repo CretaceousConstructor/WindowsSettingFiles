@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue May 12 01:00:40 2026"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": wechat
+  app_options:
+    wt.exe:
+      ascii_mode: false
+    zellij.exe:
+      ascii_mode: false
+    chrome.exe:
+      ascii_mode: false

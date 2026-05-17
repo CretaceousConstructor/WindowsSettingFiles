@@ -71,11 +71,11 @@ desc = "Rename bookmark by fzf"
 
 # System clipboard
 [[mgr.prepend_keymap]]
-on   = [ "y", "y" ]
+on   = [ "Y", "y" ]
 run = "plugin system-clipboard"
 
 [[mgr.prepend_keymap]]
-on   = [ "y", "p" ]
+on   = [ "Y", "p" ]
 run = "shell 'cb paste' --block"
 desc = "Paste from clipboard"
 
